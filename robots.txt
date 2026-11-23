@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://windenbachstudio.com/sitemap.xml
